@@ -1,9 +1,7 @@
 // Binary Search 
-
 import java.util.*;
 
 public class BinarySearch {
-
     int bsearch(int arr[], int key) {
         int start = 0;
         int end = arr.length - 1;
